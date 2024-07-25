@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kindaboringkvg&label=Profile%20views&color=0e75b6&style=flat" alt="kindaboringkvg" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Full Stack, Devops**
+- 🌱 I’m currently learning **Full Stack, Devops**
 
 - 🤝 I’m looking for help with [Threads Clone](https://github.com/kindaboringkvg/threadsclone)
 
 - 📫 How to reach me **karam.veer00@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/163jN9sUGMWwSjNcpgtvLbA_oda8XeHWL?usp=drive_link](https://drive.google.com/drive/folders/163jN9sUGMWwSjNcpgtvLbA_oda8XeHWL?usp=drive_link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/drive/folders/163jN9sUGMWwSjNcpgtvLbA_oda8XeHWL?usp=drive_link)
 
-- ⚡ Fun fact **I'm a national-level badminton player who thinks I'm funny, plays video games competitively, and solves daily problems through code!**
+- ⚡ Fun fact **I'm a national-level badminton player who thinks he's funny, plays video games competitively, and solves daily problems through code!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
