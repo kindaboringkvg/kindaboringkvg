@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/drive/folders/163jN9sUGMWwSjNcpgtvLbA_oda8XeHWL?usp=drive_link)
 
-- ⚡ Fun fact **I'm a national-level badminton player who thinks he's funny, plays video games competitively, and solves daily problems through code!**
+- ⚡ Fun fact **I'm a national-level badminton player who thinks he's funny, plays video games competitively, and solves his daily problems through code because he is lazy!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
