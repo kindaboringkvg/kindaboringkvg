@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack, Devops**
 
-- 🤝 I’m looking for help with [Threads Clone](https://github.com/kindaboringkvg/threadsclone)
+- 🤝 I’m looking for help with [Rumour](https://github.com/kindaboringkvg/Rumour)
 
 - 📫 How to reach me **karam.veer00@gmail.com**
 
