@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently a **BDA in a bootstrap startup**
 
-- 🤝 I’m looking for help with [Rumour](https://github.com/kindaboringkvg/Rumour)
+- 🤝 I’m looking for help with a social media application that I'm working on.
 
 - 📫 How to reach me **karam.veer00@gmail.com**
 
