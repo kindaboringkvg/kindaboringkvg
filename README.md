@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **karam.veer00@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/drive/folders/163jN9sUGMWwSjNcpgtvLbA_oda8XeHWL?usp=drive_link) p.s. I have to add my new resume here.
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1p_WNRt32kCnAyNTqek7nZ0P29iMULXiz/view?usp=drive_link) p.s. I have to add my new resume here.
 
 - ⚡ Fun fact **I'm a national-level badminton player who thinks he's funny, plays video games competitively, and solves his daily problems through code because he is lazy!**
 
