@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kindaboringkvg&label=Profile%20views&color=0e75b6&style=flat" alt="kindaboringkvg" /> </p>
 
-- 🌱 I’m currently a **BDA in a bootstrap startup**
+- 🌱 I’m currently a **Freelancer**
 
 - 🤝 I’m looking for help with a social media application that I'm working on.
 
