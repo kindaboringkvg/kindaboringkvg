@@ -1,31 +1,77 @@
-![Master Head](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Karamveer Singh</h1>
-<h3 align="center">Aspiring Software Developer, Data Analyst, and Cybersecurity Enthusiast. Passionate about coding, problem solving, and continuous learning</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+<!-- Banner -->
+<div align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Master Head" width="100%" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kindaboringkvg&label=Profile%20views&color=0e75b6&style=flat" alt="kindaboringkvg" /> </p>
-
-- 🌱 I’m currently a **Freelancer**
-
-- 🤝 I’m looking for help with a social media application that I'm working on.
-
-- 📫 How to reach me **karam.veer00@gmail.com**
-
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/19b7OyaaIvBNLapBEVlTphbJxOClO5XkR/view?usp=drive_link)  I hope companies see this!
-
-- ⚡ Fun fact **I'm a national-level badminton player who thinks he's funny, plays video games competitively, and solves his daily problems through code because he is lazy!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/karamveer-singh-a06843249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karamveer-singh-a06843249/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/user4623Y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user4623y/" height="30" width="40" /></a>
+<h1 align="center">Hi, I'm Karamveer Singh</h1>
+<p align="center">
+  <strong>Software Developer • Data Analyst • Cybersecurity Enthusiast</strong><br/>
+  Passionate about scalable backend systems, AI-driven workflows, and automating everyday problems with code.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Social & Action Badges -->
+<p align="center">
+  <a href="https://drive.google.com/file/d/19b7OyaaIvBNLapBEVlTphbJxOClO5XkR/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View_CV-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/karamveer-singh-a06843249/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/user4623Y/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:karam.veer00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=kindaboringkvg&label=Views&color=70a5fd&style=for-the-badge" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kindaboringkvg&show_icons=true&locale=en&layout=compact" alt="kindaboringkvg" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kindaboringkvg&show_icons=true&locale=en" alt="kindaboringkvg" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kindaboringkvg&" alt="kindaboringkvg" /></p>
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" />
+
+- 🎓 Studying **Computer Science / Software Engineering** at **FAU Erlangen-Nürnberg** (Germany)
+- 💼 Currently working as a **Freelancer** & open to **Software Engineering / R&D Internships**
+- 🤝 Building a **social media application** — always open to feedback and collaboration
+- 📫 Reach me at **[karam.veer00@gmail.com](mailto:karam.veer00@gmail.com)**
+- ⚡ **Fun fact:** National-level badminton player, competitive gamer, and someone who spends 3 hours writing a script to automate a 5-minute task.
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Languages](https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,bash&theme=dark) |
+| **Frontend & Mobile** | ![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark) *(+ React Native)* |
+| **Backend & Databases** | ![Backend](https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,mysql,firebase&theme=dark) *(+ Oracle)* |
+| **Data, OS & Tools** | ![Tools](https://skillicons.dev/icons?i=linux,git,github,ps&theme=dark) *(+ Pandas)* |
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kindaboringkvg/kindaboringkvg/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kindaboringkvg/kindaboringkvg/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/kindaboringkvg/kindaboringkvg/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=kindaboringkvg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kindaboringkvg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kindaboringkvg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
